@@ -1,0 +1,5 @@
+Sugerencias de cambios:
+1.- los campos de las medidas de carril aceptan números negativos.
+2.- Acotar la ongitud máx de todos los textbox usados
+3.- Usar un tamaño de ventana fijo no reescalable a menos que la aplicación sea responsiva. 
+4.- yo agregaria la ventana de resumen como un nuevo archivo windows Form.
